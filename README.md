@@ -21,8 +21,6 @@ Data on stocks and symobols in the form of csv table were downloaded from: [http
 
 Repository files description
 ======
-`Markdown.ipynb`	
+`R_Markdown.md`	
 Main file with the work explanation to perform the analisys.
 
-`airbnb_search_engine.py`
-The code used to perform the analysis.
