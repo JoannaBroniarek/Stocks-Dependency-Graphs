@@ -17,7 +17,7 @@ For studing the dependency among stocks, we collected the daily closing prices f
 
 Download sets of data
 ======
-Data on stocks and symobols in the form of csv table was downloaded from: [https://en.wikipedia.org/wiki/List_of_S%26P_500_companies](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies).
+Data on stocks and symobols in the form of csv table were downloaded from: [https://en.wikipedia.org/wiki/List_of_S%26P_500_companies](https://en.wikipedia.org/wiki/List_of_S%26P_500_companies).
 
 Repository files description
 ======
