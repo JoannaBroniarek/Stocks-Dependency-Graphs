@@ -1,7 +1,7 @@
 # Stocks-Dependency-Graphs
 Analysis over Stocks price dependency. A project of the course Statistical Methods for Data Science.
 
-### Statistical Methods for Data Science - Homework 3
+### Statistical Methods for Data Science
 ##### Joanna Broniarek and Guilherme Vescovi Nicchio
 ##### 03/12/2018
 
